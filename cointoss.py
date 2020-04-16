@@ -35,14 +35,3 @@ class coinToss():
 
 
 
-
-
-
-
-
-
-
-
-c = coinToss()
-
-print(c.coin)
