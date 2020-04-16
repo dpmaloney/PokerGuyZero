@@ -10,7 +10,7 @@ Like Leela Chess Zero, but for poker (8 player NL Holdem), and worse
 * [CFR For dummies](https://int8.io/counterfactual-regret-minimization-for-poker-ai/) - CFR Explained by not confusing papers b/c I am dumb
 * [Safe Subgame Solving](https://papers.nips.cc/paper/6671-safe-and-nested-subgame-solving-for-imperfect-information-games.pdf) - Sweet paper by some sweet dudes about safe & nested subgame solving
 * [Libratus/Safe Subgame Solving Video lec](https://www.youtube.com/watch?v=2dX0lwaQRX0) - Sweet lecture on safe subgame solving
-
+* [PyPokerEngine](https://github.com/ishikota/PyPokerEngine) - Kube a good poker base implementation we'll see
 
 # TODO
 * Figure out CFR - DONE
